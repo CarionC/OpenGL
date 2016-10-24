@@ -1,0 +1,24 @@
+ ????
+hackmd.io/p/Hy5xw6O0#/
+
+One of Apple or Pen 30%
+Detail
+Apple can rotate by X, Y, or Z axis
+Apple is composited by at least 1 sphere and 2 cone
+Pen can rotate by non local X, Y, Z axis
+Pen is composited by only 1 cone and 1 cylinder
+
+Animation of PPAP 30%
+Detail
+Use keyboard or mouse to switch animation mode and display mode
+Pen can penetrate apple as animation
+They should stop at middle of screen finally
+
+Blending Cube 40%
+Detail
+Cube is composited by 6 quads (GL_QUADS)
+Each quad has different color4f ( 0.5,0.5,0.5,0.5 1.0,0.0,0.0,0.5 …)
+Cube rotate every frame
+If blending fail, i will be penalty(Depth test, blend, lighting …)
+You can watch movie to know what is correct
+VS2015???????????DB(????) 
